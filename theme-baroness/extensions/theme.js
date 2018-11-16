@@ -11,6 +11,7 @@
 exports.getTheme = function() {
 	return {
 		'id': 'baroness',
-		'module': 'theme-baroness'
+		'module': 'theme-baroness',
+		'name': 'Baroness'
 	};
 };
