@@ -51,7 +51,8 @@ body {
 	height: 2em;
 	background: #d41;
 	color: #fff;
-	position: relative;
+	position: fixed;
+	bottom: 0;
 }
 .list-group-item {
   background: none !important;
